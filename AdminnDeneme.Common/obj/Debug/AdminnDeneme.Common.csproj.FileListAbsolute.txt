@@ -1,0 +1,15 @@
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\bin\Debug\AdminnDeneme.Common.dll.config
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\bin\Debug\AdminnDeneme.Common.dll
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\bin\Debug\AdminnDeneme.Common.pdb
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\bin\Debug\AdminnDeneme.Entity.dll
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\bin\Debug\EntityFramework.dll
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\bin\Debug\AdminnDeneme.Entity.pdb
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\bin\Debug\AdminnDeneme.Entity.dll.config
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\bin\Debug\EntityFramework.xml
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\obj\Debug\AdminnDeneme.Common.csprojAssemblyReference.cache
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\obj\Debug\AdminnDeneme.Common.csproj.CoreCompileInputs.cache
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\obj\Debug\AdminnDeneme.Common.csproj.CopyComplete
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\obj\Debug\AdminnDeneme.Common.dll
+C:\Users\Emrah Ciran\source\repos\AdminDeneme\AdminnDeneme.Common\obj\Debug\AdminnDeneme.Common.pdb

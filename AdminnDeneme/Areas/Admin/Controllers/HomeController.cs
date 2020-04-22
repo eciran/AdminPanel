@@ -1,4 +1,7 @@
-﻿using System;
+﻿using AdminnDeneme.Areas.Admin.Models.ResultModel;
+using AdminnDeneme.Common;
+using AdminnDeneme.Entity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,10 +11,18 @@ namespace AdminnDeneme.Areas.Admin.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: Admin/Home
-        public ActionResult Index()
+
+
+
+		// GET: Admin/Home
+		public ActionResult Index()
         {
             return View();
         }
+	
+		public ActionResult Login()
+		{
+			return View();
+		}
     }
 }
